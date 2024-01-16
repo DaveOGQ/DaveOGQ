@@ -5,6 +5,8 @@
 <h1>About Me</h1>
 <p>I'm a 3rd year computer science student at the university of calgary, with over 5 years of programming experience across various technologies, such as Java, Python, C++, Haskel and Prolog to name a few. Im also an aspiring Full Stack Developer, working with frontend frameworks like React.js and backend frameworks like Flask. I am presently seeking internship opportunities and eager to immerse myself in real-world, fast-paced work environments to take on new challenges. </p>
 
+<a href="https://david-oti-george.netlify.app/">Visit My personal website for more information.</a>
+
 
 <hr>
 

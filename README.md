@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm David Oti-George</h1>
-<h3 align="center">I'm an aspiring Software Developer, with experience in Full Stack Development as well.</h3>
+<h3 align="center">I'm an aspiring Software Developer, with experience in Full Stack Development.</h3>
 <hr>
 
 <h1>About Me</h1>
